@@ -1,1 +1,0 @@
-This application greets you as a user saying "Hello World", it also allows you to enter your name and click a button. Once the button is clicked the text at the top changes to "Hi, " and then the name you typed in.
